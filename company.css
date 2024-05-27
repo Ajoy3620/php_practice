@@ -1,0 +1,37 @@
+.okreport 
+     thead tr th{
+        background-color: rgb(253, 217, 97);
+        border-block: 5px solid rgb(124, 44, 100);
+        border-width: medium;
+        margin-top: 140px;
+        box-shadow: 0px 0px 50px -7px black;
+     }
+        .okreport:hover{
+            transform:scale(1.1) ;       
+}
+.useit{
+    text-align: center;
+    font-family: arial black;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px black;
+    font-size: 20px;
+}
+.then{
+    background-color: rgb(6, 6, 236);
+    padding: 10px;
+    margin: 10px;   
+}
+        th, td {
+            padding: 5px;
+            border: 1px solid #ddd;
+            text-align: center;
+            border-style: none;
+        }
+        th {
+            text-align: center;
+            background-color: #f2f2f2;
+        }
+        .qu{
+            color: rgb(207, 228, 221);
+            background-color: rgb(66, 24, 24);
+        } 
